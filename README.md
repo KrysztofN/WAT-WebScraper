@@ -22,3 +22,4 @@ Install the necessary dependencies using pip:
 
 ```bash
 pip install selenium
+```
